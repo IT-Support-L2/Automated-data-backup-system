@@ -1,5 +1,5 @@
 # Automated-data-backup-system
-Automated data backup for Windows using PowerShell and Python
+Automated data backup for Windows using PowerShell and Python.
 
 
 This is a basic setup for initiating the backup process using PowerShell and calling a Python script (backup_script.py) to perform the actual backup operation. The Python script recursively copies files from the source directory to the destination directory.
